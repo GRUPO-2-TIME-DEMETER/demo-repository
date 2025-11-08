@@ -37,6 +37,22 @@ Desenvolvimento do 5W2H e do gráfico de Gantt para controldas atividades e praz
 7. Apresentação ao Cliente:
 Primeira entrega (Sprint 1), com feedback do cliente para melhor execução do projeto.
 
+
 #Sprint 2
 
+1. Extração e tratamento de dados:
+
+Gráficos foram extraídos do Comex Stat, tratados no Sublime Text com Python e organizados pelo SH2 para estruturar o Dashboard.
+
+2. Importação e criação de gráficos:
+
+Os dados filtrados foram importados para o Power Bl; a equipe explorou a ferramenta e iniciou a criação dos gráficos para análise de dados.
+
+3. Defınição das análises:
+
+O grupo decidiu focar nas cidades que mais exportaram e importaram, identificando os produtos e suas respectivas quantidades.
+
+ 4. Interpretação dos resultados: 
+
+Após as análises, o grupo buscou compreender as mudanças no mercado que influenciaram as variações nas importações e exportações ao longo dos últimos cinco anos.
 
