@@ -15,6 +15,10 @@ Desenvolvimento de um portal online para análise de dados da cadeia alimentíci
 
 # Sprint 2
 
+## User Storys
+![image](https://github.com/user-attachments/assets/2f5ef5ea-3729-4b41-a620-2b6d94c0a32d)
+
+
 ## Dashboard
 <img width="1170" height="715" alt="image" src="https://github.com/user-attachments/assets/51f5d587-0a4b-4d9e-accc-29e4af7c869a" />
 
