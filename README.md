@@ -26,4 +26,4 @@ Desenvolvimento de um portal online para análise de dados da cadeia alimentíci
 
 <img width="1170" height="756" alt="image" src="https://github.com/user-attachments/assets/2fc24612-1b6f-4a35-b63d-462b5788d6ca" />
 
-<img width="1170" height="711" alt="image" src="https://github.com/user-attachments/assets/3acbbdb1-6e0c-429c-b354-80d212d10bf0" />
+![image](https://github.com/user-attachments/assets/77b5e80a-c082-4b71-a4bc-faccf124bd7e)
