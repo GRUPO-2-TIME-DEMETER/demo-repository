@@ -20,10 +20,10 @@ Desenvolvimento de um portal online para análise de dados da cadeia alimentíci
 
 
 ## Dashboard
-<img width="1170" height="715" alt="image" src="https://github.com/user-attachments/assets/51f5d587-0a4b-4d9e-accc-29e4af7c869a" />
+![image](https://github.com/user-attachments/assets/3c834595-0091-4ca0-bd1d-106acf83c189)
 
-<img width="1170" height="749" alt="image" src="https://github.com/user-attachments/assets/32a9753c-76fa-4f73-a2b0-7eaa0bf968f1" />
+![image](https://github.com/user-attachments/assets/fbd73bd0-d0a8-4f9f-b15b-7369fcbb0067)
 
-<img width="1170" height="756" alt="image" src="https://github.com/user-attachments/assets/2fc24612-1b6f-4a35-b63d-462b5788d6ca" />
+![image](https://github.com/user-attachments/assets/ee79d829-e12c-4c57-b1e5-53a5ccdc78c1)
 
 ![image](https://github.com/user-attachments/assets/77b5e80a-c082-4b71-a4bc-faccf124bd7e)
