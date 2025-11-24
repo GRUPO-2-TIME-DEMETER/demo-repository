@@ -33,6 +33,10 @@ Os dados foram extraídos da plataforma Comex Stat e tratados utilizando a lingu
 
 # Sprint 3
 
+## User Storys
+![image](https://github.com/user-attachments/assets/61de895e-39d3-4a39-9d74-f7075f914277)
+
+
 ## Dashboard
 ![image](https://github.com/user-attachments/assets/39190933-739d-4688-aace-cee5343ed3d8)
 
