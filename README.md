@@ -53,7 +53,7 @@ Após o tratamento inicial, os dados de importações e exportações foram cons
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
 | 1    | Alta       |Como gestor público, quero visualizar um protótipo do painel analítico da região, para entender quais indicadores de comércio serão monitorados.         |    12h     |    1   |
-| 2    | Alta       |Como gestor público, quero ver representações gráficas dos principais indicadores de exportação e importação, para ter uma visão inicial do comportamento comercial da região.|    10h     |    1   |
+| 2    | Alta       |Como gestor público, quero ver representações gráficas dos principais indicadores de exportação e importação, para ter uma visão inicial do comportamento comercial da região.|  10h     |    1   |
 | 3    | Média      |                                                                                                                                                         |     6h     |    1   |
 | 4    | Alta       |                                                                                                                                                         |    10h     |    2   |
 | 5    | Alta       |                                                                                                                                                         |     8h     |    2   |
