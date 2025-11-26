@@ -71,7 +71,8 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 |  Team Member  | Felipe Ribeiro de Oliveira                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)        |
 |  Team Member  | Anna Caroline Pereira                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)   |
 
-
+# Objetivo do Projeto
+Nosso projeto consiste na criação de um portal que reunirá os dados de importação e exportação de preodutos da cadeia alimentícia do Vale do Paraíba. A proposta foi idealizada e foi desenvolvida, com o objetivo de facilitar as pesquisas relacionadas ao tema e de agilizar futuras análises.
 
 # Product Backlog
 
